@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdf7b27c-36be-4b70-9d84-c53164c806b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResponseDesign_web_core-3.3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/call.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/checkstatus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/expand.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/highlight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/repair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/webdesign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Z8enzq3TxkV8tQXHWySb2EU6Qp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/EDWARDM/Desktop/java/ResponseDesign_web_core-3.3.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EDWARDM\Desktop\java\spring_boot_tutorial\practice_session\Payroll\ResponseDesign_web_core-3.3.2\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ResponseDesign_web_core-3.3.2.html" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ResponseDesign_web_core-3.3.2.html" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdf7b27c-36be-4b70-9d84-c53164c806b7" name="Changes" comment="" />
+      <created>1701808308051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701808308051</updated>
+    </task>
+    <servers />
+  </component>
+</project>

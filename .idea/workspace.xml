@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdf7b27c-36be-4b70-9d84-c53164c806b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResponseDesign_web_core-3.3.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/checkstatus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/expand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/highlight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/profile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/repair.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/webdesign.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="bdf7b27c-36be-4b70-9d84-c53164c806b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/EDWARDM/Desktop/java/ResponseDesign_web_core-3.3.2"
   }
 }]]></component>

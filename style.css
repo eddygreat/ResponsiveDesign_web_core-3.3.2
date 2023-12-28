@@ -39,6 +39,7 @@
 .full-page{
    display: flex;
    flex-direction: column;
+   height: fit-content;
      
 }
 
@@ -78,7 +79,7 @@ margin-bottom: 24px;
    margin-left: 0px;
    margin-right: 16px;
    overflow-x: auto;
-   padding: 20px;
+   padding: 20px 20px 0px 20px;
    margin-top: 0px;
    overflow: auto;
 
@@ -167,7 +168,6 @@ margin-bottom: 24px;
 }
    
 
-
 .readmore__icon{
    align-content: center;
 }
@@ -202,15 +202,16 @@ margin-bottom: 24px;
    font-size: 14px;
    letter-spacing: 0.2px;
    line-height: 18px;
-   margin: 10px 16px 10px 16px;
+   margin: 0px 16px 10px 16px;
    height: 72px;
    justify-content: center;
+   overflow-y: scroll;
     
 }
 
-.article-text-two{
+/*.article-text-two{
       display: none;
-   }
+   }*/
 
 .article-text-one{
    width: 90dvw;
@@ -223,7 +224,7 @@ margin-bottom: 24px;
    font-size: 14px;
    letter-spacing: 0.2px;
    line-height: 18px;
-   margin: 10px 16px 10px 0px;
+   margin: 0px 16px 10px 0px;
     
    }
 
@@ -379,6 +380,7 @@ margin-bottom: 24px;
       height: 160px;
       line-height: 20px;
       margin: 10px 0px 0px 16px;
+      overflow-y: unset;
    }
 
    .article-text-one{
@@ -549,6 +551,7 @@ margin-bottom: 24px;
       height: 140px;
       line-height: 20px;
       margin-right: 0px;
+      overflow-y: unset;
    }
 
     .article-text-one{

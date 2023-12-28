@@ -3,3 +3,6 @@
 # The mobile screen is set for a maximum width of 320px while the tablet width is set for a maximum width of 768px and laptop width is set for a 
 # minimum of 769px.
 # The application is designed using mainly css and html.
+
+# Kindly access the page using the link below
+# https://eddygreat.github.io/ResponsiveDesign_web_core-3.3.2/index.html

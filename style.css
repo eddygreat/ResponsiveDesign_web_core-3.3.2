@@ -343,13 +343,15 @@ margin-bottom: 24px;
 
    .menu-content__additional-Services{
       width: 20.088dvw;
-      margin-right: 40px;
+      margin-right: 4.5dvw;
       margin-left: 0px;
    }
 
    .menu-content__service-prices{
-      width: 13dvw;
-      margin-right: 10.13px;
+      width: 16dvw;
+      margin-right: 1dvw;
+      display: flex;
+      align-content: flex-end;
    }
 
    .menu-content__service-center{
@@ -357,7 +359,9 @@ margin-bottom: 24px;
    }
 
    .menu-content__special-prices{
-      width: 13.36dvw;
+      width: 15dvw;
+      display: flex;
+      align-content: flex-end;
    }
 
    .article{

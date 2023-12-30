@@ -207,7 +207,7 @@ margin-bottom: 24px;
    margin: 0px 16px 10px 16px;
    
    justify-content: center;
-   overflow-x: scroll;
+   
     
 }
 
@@ -315,7 +315,7 @@ margin-bottom: 24px;
    .menu-content{
       margin-left: 8px;
       width: 100dvw;
-
+      overflow: hidden;
    }
 
    .menu-icon.chat, .menu-icon.call, .menu-icon.profile, .menu-icon.highlight-2{
@@ -379,7 +379,7 @@ margin-bottom: 24px;
       height: 160px;
       line-height: 20px;
       margin: 10px 0px 0px 16px;
-      overflow-y: hidden;
+      overflow: hidden;
    }
 
    .article-text-one{
@@ -549,7 +549,7 @@ margin-bottom: 24px;
       height: 140px;
       line-height: 20px;
       margin-right: 0px;
-      overflow-y: hidden;
+      overflow: hidden;
    }
 
     .article-text-one{
@@ -650,6 +650,10 @@ margin-bottom: 24px;
    .services__highlight{
       margin-top: 16px;
 
-}
+   }
+   
+   .menu-content{
+      overflow: hidden;
+   }
 
 }

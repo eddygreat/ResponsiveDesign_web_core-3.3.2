@@ -75,13 +75,11 @@ margin-bottom: 24px;
    justify-content: space-between;
    align-content: center;
    align-items: center;
-   width: 100dvw;
    margin-left: 0px;
    margin-right: 16px;
-   overflow-x: auto;
-   padding: 20px 20px 0px 20px;
+   padding: 10px 20px 10px 20px;
    margin-top: 0px;
-   overflow: auto;
+   overflow-x: scroll;
 
 }
 
@@ -99,7 +97,6 @@ margin-bottom: 24px;
    letter-spacing: -0.2px;
    text-align: left;
    margin-right: 16px;
-   overflow-x: auto;
    justify-content: center;
    list-style-type: none;
    height: 24px;
@@ -107,7 +104,7 @@ margin-bottom: 24px;
 }
 
 .menu-content__repair-box{
-   width: 76.88dvw;
+   width: 250px;
    height: 40px;
    background-color: #ffffff;
    border-radius: 6px;
@@ -123,11 +120,10 @@ margin-bottom: 24px;
 .menu-content__additional-Services{
       font-family: "Roboto-Medium", Helvetica;
       letter-spacing: -0.2px;
-      width: 191px;
+      width: 160px;
       font-weight: 500;
       color: #7d7e82;
       font-size: 16px;
-      overflow-y: clip;
       line-height: 24px;
       align-items: center;
       justify-content: center;
@@ -139,14 +135,19 @@ margin-bottom: 24px;
 
 .menu-content__service-prices{
    padding-top: 5px;
+   width: 120px;
 }
 
 .menu-content__service-center{
    padding-top: 5px;
+   margin-left: 10px;
+   width: 200px;
+   
 }
 
 .menu-content__special-prices{
   padding-top: 5px;
+  width: 120px;
 }
 
 .article__image{
@@ -196,6 +197,7 @@ margin-bottom: 24px;
 
 .article-text{
    width: 90dvw;
+   
    font-family: "Roboto-Regular", Helvetica;
    font-weight: 400;
    color: #1b1c21;
@@ -203,21 +205,18 @@ margin-bottom: 24px;
    letter-spacing: 0.2px;
    line-height: 18px;
    margin: 0px 16px 10px 16px;
-   height: 72px;
+   
    justify-content: center;
-   overflow-y: scroll;
+   overflow-x: scroll;
     
 }
 
-/*.article-text-two{
-      display: none;
-   }*/
+
 
 .article-text-one{
    width: 90dvw;
-      /*width: 288px;*/
-   overflow: auto;
-   height: 72px;
+   
+   height: auto;
    font-family: "Roboto-Regular", Helvetica;
    font-weight: 400;
    color: #1b1c21;
@@ -297,11 +296,8 @@ margin-bottom: 24px;
 
 
 
-
-
 @media (min-width:768px) and (max-width:1119px){
  
-  
    .menu-nav-list{
       padding: 0px 24px 10px 24px;
       justify-content:space-between;
@@ -317,7 +313,6 @@ margin-bottom: 24px;
    }
 
    .menu-content{
-      justify-content: space-between;
       margin-left: 8px;
       width: 100dvw;
 
@@ -342,19 +337,19 @@ margin-bottom: 24px;
    }
 
    .menu-content__repair-box{
-   width: 32.29dvw;
+   width: 35.29dvw;
    margin-right: 16px;
    }
 
    .menu-content__additional-Services{
-      width: 24.088dvw;
-      margin-right: 24px;
+      width: 20.088dvw;
+      margin-right: 40px;
       margin-left: 0px;
    }
 
    .menu-content__service-prices{
-      width: 19.36dvw;
-      margin-right: 25.13px;
+      width: 13dvw;
+      margin-right: 10.13px;
    }
 
    .menu-content__service-center{
@@ -362,7 +357,7 @@ margin-bottom: 24px;
    }
 
    .menu-content__special-prices{
-      width: 19.36%;
+      width: 13.36dvw;
    }
 
    .article{
@@ -380,11 +375,12 @@ margin-bottom: 24px;
       height: 160px;
       line-height: 20px;
       margin: 10px 0px 0px 16px;
-      overflow-y: unset;
+      overflow-y: hidden;
    }
 
    .article-text-one{
       width: 40.65dvw;
+      
    }
 
    .article-text-two{
@@ -425,8 +421,6 @@ margin-bottom: 24px;
       padding-top: 0px;
    
    }
-
-   
   
  
    .group{ 
@@ -547,27 +541,31 @@ margin-bottom: 24px;
    }
 
    .article-text{
-      width: 43.75dvw;
+      width: 41.2dvw;
       height: 140px;
       line-height: 20px;
       margin-right: 0px;
-      overflow-y: unset;
+      overflow-y: hidden;
    }
 
     .article-text-one{
-      width: 43.75dvw;
+      width: 41dvw;
+      padding-top: 10px;
+      height: 52px;
+      
    }
    
 
    .article-text-two span{
-       width: 43.75dvw;
+       width: 41dvw;
    }
 
    .article-text-two{
       margin-top: 20px;
       line-height: 20px;
-      width: 43.75dvw;
+      width: 41dvw;
       display: contents;
+      padding-top: 20px;
    }
 
     
@@ -608,6 +606,7 @@ margin-bottom: 24px;
       line-height: 24px;
       margin-left: 51px;
       display: flex;
+      padding-top: 15px;
 
    }
 

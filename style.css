@@ -1,21 +1,21 @@
-.header{
+.header {
    display: block;
    width: 100%;
    position: relative;
 
 }
 
-.menu-nav{
+.menu-nav {
    background-color: #eff6ff;
    display: flex;
    justify-content: space-between;
    width: 100dvw;
    position: relative;
- 
-   
+
+
 }
 
-.menu-nav-list{
+.menu-nav-list {
    display: flex;
    align-self: start;
    align-content: center;
@@ -25,10 +25,10 @@
    overflow-x: auto;
    padding: 10px 16px 10px 16px;
    position: relative;
-   
+
 }
 
-.menu-icon{
+.menu-icon {
    width: auto;
    height: 40px;
    padding-top: 12px;
@@ -36,40 +36,41 @@
    list-style-type: none;
 }
 
-.full-page{
+.full-page {
    display: flex;
    flex-direction: column;
    height: fit-content;
-     
+
 }
 
-.services{
+.services {
    display: flex;
    align-items: center;
    align-content: center;
    margin-right: 32px;
 }
-.services-text{
-width: 288px;
-margin-left: 16px;
-margin-right: 16px;
-font-family: "Roboto-Bold", Helvetica;
-font-weight: 700;
-color: #1b1c21;
-font-size: 28px;
-letter-spacing: -0.6px;
-line-height: 40px;
-margin-top: 24px;
-margin-bottom: 24px;
+
+.services-text {
+   width: 288px;
+   margin-left: 16px;
+   margin-right: 16px;
+   font-family: "Roboto-Bold", Helvetica;
+   font-weight: 700;
+   color: #1b1c21;
+   font-size: 28px;
+   letter-spacing: -0.6px;
+   line-height: 40px;
+   margin-top: 24px;
+   margin-bottom: 24px;
 }
 
 .service-holder1 {
-    display: flex;
-    align-content: center;
-      
+   display: flex;
+   align-content: center;
+
 }
 
-.menu-content{
+.menu-content {
    color: #081930;
    display: flex;
    justify-content: space-between;
@@ -83,13 +84,13 @@ margin-bottom: 24px;
 
 }
 
-.menu-content__box{
+.menu-content__box {
    width: 222px;
-   height: 24px;      
-      
+   height: 24px;
+
 }
 
-.menu-content__items{
+.menu-content__items {
    font-family: "Roboto-Medium", Helvetica;
    font-weight: 500;
    color: #7d7e82;
@@ -100,10 +101,10 @@ margin-bottom: 24px;
    justify-content: center;
    list-style-type: none;
    height: 24px;
-   
+
 }
 
-.menu-content__repair-box{
+.menu-content__repair-box {
    width: 250px;
    height: 40px;
    background-color: #ffffff;
@@ -117,87 +118,88 @@ margin-bottom: 24px;
    margin-right: 28.87px;
    align-self: start;
 }
-.menu-content__additional-Services{
-      font-family: "Roboto-Medium", Helvetica;
-      letter-spacing: -0.2px;
-      width: 160px;
-      font-weight: 500;
-      color: #7d7e82;
-      font-size: 16px;
-      line-height: 24px;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(180deg, rgb(248, 248, 248) 0.04%, 
-      rgba(248, 248, 248, 0) 100%);
-                  
-   }
+
+.menu-content__additional-Services {
+   font-family: "Roboto-Medium", Helvetica;
+   letter-spacing: -0.2px;
+   width: 160px;
+   font-weight: 500;
+   color: #7d7e82;
+   font-size: 16px;
+   line-height: 24px;
+   align-items: center;
+   justify-content: center;
+   background: linear-gradient(180deg, rgb(248, 248, 248) 0.04%,
+         rgba(248, 248, 248, 0) 100%);
+
+}
 
 
-.menu-content__service-prices{
+.menu-content__service-prices {
    padding-top: 5px;
    width: 120px;
 }
 
-.menu-content__service-center{
+.menu-content__service-center {
    padding-top: 5px;
    margin-left: 10px;
    width: 200px;
-   
+
 }
 
-.menu-content__special-prices{
-  padding-top: 5px;
-  width: 120px;
+.menu-content__special-prices {
+   padding-top: 5px;
+   width: 120px;
 }
 
-.article__image{
+.article__image {
    width: 100dvw;
    position: relative;
-    
+
 }
 
-.readmore{
-   display:flex;
+.readmore {
+   display: flex;
    flex-direction: initial;
    align-content: flex-start;
    align-items: center;
-   margin-top:20px ;
+   margin-top: 20px;
    padding: 5px;
-  	margin-left: 12px;
-   position: relative; 
+   margin-left: 12px;
+   position: relative;
    margin-bottom: 10px;
 }
-   
 
-.readmore__icon{
+
+.readmore__icon {
    align-content: center;
 }
 
-.readmore__text{
-      width: 100px;
-     
-      font-family: "Roboto-Medium", Helvetica;
-      font-weight: 500;
-      color: #1b1c21;
-      font-size: 16px;
-      letter-spacing: -0.2px;
+.readmore__text {
+   width: 100px;
+
+   font-family: "Roboto-Medium", Helvetica;
+   font-weight: 500;
+   color: #1b1c21;
+   font-size: 16px;
+   letter-spacing: -0.2px;
 }
 
-.article{
+.article {
    margin-top: 30px;
    width: 100dvw;
    position: relative;
-   
-}
-
-.services__highlight{
-      margin-top: 24px;
 
 }
 
-.article-text{
+.services__highlight {
+   margin-top: 24px;
+
+}
+
+.article-text {
    width: 90dvw;
-   
+
    font-family: "Roboto-Regular", Helvetica;
    font-weight: 400;
    color: #1b1c21;
@@ -205,17 +207,17 @@ margin-bottom: 24px;
    letter-spacing: 0.2px;
    line-height: 18px;
    margin: 0px 16px 10px 16px;
-   
+
    justify-content: center;
-   
-    
+
+
 }
 
 
 
-.article-text-one{
+.article-text-one {
    width: 90dvw;
-   
+
    height: auto;
    font-family: "Roboto-Regular", Helvetica;
    font-weight: 400;
@@ -224,147 +226,158 @@ margin-bottom: 24px;
    letter-spacing: 0.2px;
    line-height: 18px;
    margin: 0px 16px 10px 0px;
-    
-   }
 
- .menu-icon.checkstatus{ order: 4;
-   }
+}
 
-   .menu-icon.repair{ order: 3;
-   }
-  
-   .menu-icon.group{ 
-         order: 1;
-         
-   }
+.menu-icon.checkstatus {
+   order: 4;
+}
 
-   .highlight{
-      filter: grayscale();
-      opacity: 35%;
-      order: 2;
-      
-   }
+.menu-icon.repair {
+   order: 3;
+}
 
-  
-   .menu-icon.call{
-      order: 3;
-      
-   }
+.menu-icon.group {
+   order: 1;
 
-   .menu-icon.chat{
-      order: 4;
-      margin-left: 16px;
-      
-   }
-   .menu-icon.profile{ 
-      order: 5;
-      margin-left: 16px;
-         
-   } 
+}
 
-   .menu-icon.highlight-2{
-      order: 6;
-      filter: grayscale();
-      opacity: 35%;
-      
-   }
+.highlight {
+   filter: grayscale();
+   opacity: 35%;
+   order: 2;
 
-   .menu-icon.checkstatus{ order: 8;
-   }
-
-   
-   .menu-icon.repair{
-      order: 7;
-      margin-right: 16px;
-   
-   }
- 
-   .menu-icon.chat, .menu-icon.call, .menu-icon.profile, .article-review, .menu-icon.highlight-2{
-      display: none;
-      
-   }
-
-    .services-extend{
-      display: none;
-   }
-
-    .article__image--web{
-      width: 100dvw;
-      position: relative;
-    
-   }
+}
 
 
+.menu-icon.call {
+   order: 3;
 
-@media (min-width:768px) and (max-width:1119px){
- 
-   .menu-nav-list{
+}
+
+.menu-icon.chat {
+   order: 4;
+   margin-left: 16px;
+
+}
+
+.menu-icon.profile {
+   order: 5;
+   margin-left: 16px;
+
+}
+
+.menu-icon.highlight-2 {
+   order: 6;
+   filter: grayscale();
+   opacity: 35%;
+
+}
+
+.menu-icon.checkstatus {
+   order: 8;
+}
+
+
+.menu-icon.repair {
+   order: 7;
+   margin-right: 16px;
+
+}
+
+.menu-icon.chat,
+.menu-icon.call,
+.menu-icon.profile,
+.article-review,
+.menu-icon.highlight-2 {
+   display: none;
+
+}
+
+.services-extend {
+   display: none;
+}
+
+.article__image--web {
+   width: 100dvw;
+   position: relative;
+
+}
+
+
+
+@media (min-width:768px) and (max-width:1119px) {
+
+   .menu-nav-list {
       padding: 0px 24px 10px 24px;
-      justify-content:space-between;
+      justify-content: space-between;
       width: 100dvw;
-    
+
    }
 
-   .services-text{
-      
+   .services-text {
+
       margin-top: 24px;
       margin-bottom: 24px;
       margin-left: 24px;
    }
 
-   .menu-content{
+   .menu-content {
       margin-left: 8px;
       width: 100dvw;
       overflow: hidden;
    }
 
-   .menu-icon.chat, .menu-icon.call, .menu-icon.profile, .menu-icon.highlight-2{
+   .menu-icon.chat,
+   .menu-icon.call,
+   .menu-icon.profile,
+   .menu-icon.highlight-2 {
       display: flex;
-      
+
    }
 
-    .menu-icon.group{ 
-         order: 2;
-         margin-right: 32.65dvw;
-         
+   .menu-icon.group {
+      order: 2;
+      margin-right: 32.65dvw;
+
    }
 
-   .highlight{
+   .highlight {
       filter: grayscale();
       opacity: 35%;
       order: 1;
-      
+
    }
 
-   .menu-content__repair-box{
-   width: 35.29dvw;
-   margin-right: 16px;
+   .menu-content__repair-box {
+      width: 35.29dvw;
+      margin-right: 16px;
    }
 
-   .menu-content__additional-Services{
+   .menu-content__additional-Services {
       width: 20.088dvw;
       margin-right: 4.5dvw;
       margin-left: 0px;
    }
 
-   .menu-content__service-prices{
+   .menu-content__service-prices {
       width: 16dvw;
       margin-right: 1dvw;
       display: flex;
       align-content: flex-end;
    }
 
-   .menu-content__service-center{
+   .menu-content__service-center {
       display: none;
    }
 
-   .menu-content__special-prices{
+   .menu-content__special-prices {
       width: 15dvw;
       display: flex;
       align-content: flex-end;
    }
 
-   .article{
+   .article {
       width: 100dvw;
       display: flex;
       flex-direction: row;
@@ -374,7 +387,7 @@ margin-bottom: 24px;
       margin-right: 24px;
    }
 
-   .article-text{
+   .article-text {
       width: 40.63dvw;
       height: 160px;
       line-height: 20px;
@@ -382,86 +395,90 @@ margin-bottom: 24px;
       overflow: hidden;
    }
 
-   .article-text-one{
+   .article-text-one {
       width: 40.65dvw;
-      
+
    }
 
-   .article-text-two{
+   .article-text-two {
       display: contents;
    }
 
-   .article-text-two span{
+   .article-text-two span {
       display: none;
    }
 
-   .article-text-two{
+   .article-text-two {
       margin-top: 20px;
       line-height: 20px;
    }
 
-   .article-text-two:after{
-   
-     
-     content: 'We have been operating successfully since 1992 and have earned a reputation as a reliable partner';
-     width: 40.65%;
+   .article-text-two:after {
+
+
+      content: 'We have been operating successfully since 1992 and have earned a reputation as a reliable partner';
+      width: 40.65%;
    }
 
-   .article__image{
+   .article__image {
       width: 46.875dvw;
       height: 260px;
-        
-   }
-   .article__image--web{
-      width: 46.875dvw;
-      height: 208px;
-          
+
    }
 
-   .readmore{
+   .article__image--web {
+      width: 46.875dvw;
+      height: 208px;
+
+   }
+
+   .readmore {
       align-items: center;
       margin-left: 10px;
       margin-top: 0px;
       padding-top: 0px;
-   
-   }
-  
- 
-   .group{ 
-         
-         width: 96.553px;
-         height: 50px;
-         /*margin-right: 36.1dvw;*/
+
    }
 
-   .menu-icon__highlight, .menu-icon__highlight-2{
+
+   .group {
+
+      width: 96.553px;
+      height: 50px;
+      /*margin-right: 36.1dvw;*/
+   }
+
+   .menu-icon__highlight,
+   .menu-icon__highlight-2 {
       filter: grayscale();
       opacity: 100%;
       position: relative;
       margin: 0px 16px 0px 16px;
-      
-      
+
+
    }
-   .services-extend, .article-review {
+
+   .services-extend,
+   .article-review {
       display: none;
    }
 
 }
 
-@media (min-width:1120px)  {
+@media (min-width:1120px) and  (max-width:1280px){
 
-   .menu-nav{
+   .menu-nav {
       display: none;
    }
 
-   .services-extend{
+   .services-extend {
       display: flex;
-     
+
       align-content: center;
-   
+
    }
 
-   .services-extend__submit{
+   .services-extend__submit {
       width: 125px;
       height: 24px;
       font-family: "Roboto-Medium", Helvetica;
@@ -473,10 +490,10 @@ margin-bottom: 24px;
       line-height: 24px;
       align-content: center;
       margin-top: 10px;
-      
+
    }
 
-   .services-extend__repair{
+   .services-extend__repair {
       width: 119px;
       height: 24px;
       font-family: "Roboto-Medium", Helvetica;
@@ -488,54 +505,55 @@ margin-bottom: 24px;
       line-height: 24px;
       align-content: center;
       margin-top: 10px;
-      
+
    }
 
-   .services-extend__repair-image, .services-extend__checkstatus-image {
+   .services-extend__repair-image,
+   .services-extend__checkstatus-image {
       padding-top: 5px;
       width: 40px;
       height: 40px;
       position: relative;
       margin-left: 8px;
       align-self: center;
-      
-   }
-   
 
-   .services{
-     margin-top: 42px;
-     justify-content: space-between;
+   }
+
+
+   .services {
+      margin-top: 42px;
+      justify-content: space-between;
       align-content: flex-start;
    }
 
-   .menu-content__repair-box{
+   .menu-content__repair-box {
       width: 20.81dvw;
       margin-right: 1.7dvw;
    }
 
-   .menu-content__additional-Services{
+   .menu-content__additional-Services {
       width: 19.64dvw;
       margin-right: 3.05dvw;
       margin-left: 0px;
    }
 
-   .menu-content__service-prices{
+   .menu-content__service-prices {
       width: 10.54dvw;
-      
+
    }
 
-   .menu-content__service-center{
+   .menu-content__service-center {
       width: 19.38dvw;
-   
+
    }
 
-   .menu-content__special-prices{
+   .menu-content__special-prices {
       width: 14.46dvw;
    }
 
 
 
-   .article{
+   .article {
       width: 100dvw;
       display: flex;
       flex-direction: row;
@@ -544,7 +562,7 @@ margin-bottom: 24px;
       margin-top: 0px;
    }
 
-   .article-text{
+   .article-text {
       width: 41.2dvw;
       height: 140px;
       line-height: 20px;
@@ -552,19 +570,19 @@ margin-bottom: 24px;
       overflow: hidden;
    }
 
-    .article-text-one{
+   .article-text-one {
       width: 41dvw;
       padding-top: 10px;
       height: 52px;
-      
-   }
-   
 
-   .article-text-two span{
-       width: 41dvw;
    }
 
-   .article-text-two{
+
+   .article-text-two span {
+      width: 41dvw;
+   }
+
+   .article-text-two {
       margin-top: 20px;
       line-height: 20px;
       width: 41dvw;
@@ -572,34 +590,34 @@ margin-bottom: 24px;
       padding-top: 20px;
    }
 
-    
-   .article__image{
+
+   .article__image {
       align-content: center;
       width: 47.44dvw;
       height: 34.196dvw;
-        
+
    }
 
-    .article__image--web{
+   .article__image--web {
       width: 47.44dvw;
       height: 307px;
       position: relative;
-    
+
    }
 
-   .readmore{
+   .readmore {
       align-items: center;
       margin-left: 10px;
       margin-top: 33px;
-   
+
    }
 
-   .readmore__text{
+   .readmore__text {
       width: 76px;
       height: 24px;
    }
 
-   .article-review{
+   .article-review {
       width: 71px;
       height: 48px;
       font-family: "Roboto-Medium", Helvetica;
@@ -617,42 +635,42 @@ margin-bottom: 24px;
    .service-holder1 {
       display: flex;
       align-content: center;
-      
+
    }
 
-   .service-holder2{
+   .service-holder2 {
       display: flex;
    }
-   
+
    /* replacing existing text*/
-    .menu-content__repair-box span{
+   .menu-content__repair-box span {
       display: none;
    }
 
-    .menu-content__repair-box:after{
+   .menu-content__repair-box:after {
       content: 'Brands We Repair ';
-     
+
    }
 
-    .menu-content__additional-Services span{
+   .menu-content__additional-Services span {
       display: none;
    }
 
-    .menu-content__additional-Services:after{
+   .menu-content__additional-Services:after {
       content: 'Repairable Devices';
-      
+
    }
 
-   .menu-content__items{
+   .menu-content__items {
       margin-bottom: -25px;
    }
 
-   .services__highlight{
+   .services__highlight {
       margin-top: 16px;
 
    }
-   
-   .menu-content{
+
+   .menu-content {
       overflow: hidden;
    }
 

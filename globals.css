@@ -4,10 +4,20 @@
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
-html,
-body {
+
+
+html {
+  position: relative;
   margin: 0px;
-  height: 100%;
+  overflow: -moz-hidden-unscrollable;
+  min-width: 320px;
+  max-width: 1280px;
+  
+}
+
+body{
+  min-width: 320px;
+  max-width: 1280px;
 }
 /* a blue color as a generic focus style */
 button:focus-visible {

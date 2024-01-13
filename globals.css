@@ -8,16 +8,25 @@
 
 html {
   position: relative;
-  margin: 0px;
+ 
   overflow: -moz-hidden-unscrollable;
+  
+  
+  
+}
+
+.full-page{
   min-width: 320px;
   max-width: 1280px;
   
 }
 
-body{
-  min-width: 320px;
-  max-width: 1280px;
+@media (min-width:768px){
+    html, body{
+      display: flex;
+      justify-content: center;
+     
+   }
 }
 /* a blue color as a generic focus style */
 button:focus-visible {

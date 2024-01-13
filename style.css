@@ -320,7 +320,10 @@ body{
 
    }
 
-   
+    html, body{
+      margin-left: 6%;
+   }
+
    .services-text {
 
       margin-top: 24px;
@@ -476,6 +479,11 @@ body{
    .menu-nav {
       display: none;
    }
+
+  html,
+  body {
+     margin-left: 6%;
+  }
 
    .services-extend {
       display: flex;
